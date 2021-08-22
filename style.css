@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;800&display=swap");
 
 ::selection {
-  background: #a3030355;
+  background: #0303a355;
 }
 
 ::-moz-selection {
-  background: #a3030355;
+  background: #0303a355;
 }
 
 body {
