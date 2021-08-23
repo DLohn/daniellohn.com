@@ -11,6 +11,7 @@
 body {
   font-family: Montserrat;
   background-color: white;
+  padding-top: 100px;
 }
 
 .page-container,
@@ -57,6 +58,10 @@ button:hover {
 .button-row button {
   margin-right: 0.42em;
   margin-bottom: 0.42em;
+}
+
+.jumbotron {
+  padding: 1rem 1rem;
 }
 
 @media only screen and (max-width: 768px) {
