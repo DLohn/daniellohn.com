@@ -78,6 +78,10 @@ button:hover {
   }
 }
 
+.img-custom1 {
+  max-height: 140px;
+}
+
 .linkedin {
   background-color: #0e76a8;
   color: white;
@@ -138,4 +142,22 @@ button:hover {
 
 .email:hover {
   background-color: #ededed;
+}
+
+.gplay {
+  background: #000000;
+  color: white;
+}
+
+.gplay:hover {
+  background-color: #1c1c1c;
+}
+
+.steam {
+  background: #161920;
+  color: white;
+}
+
+.steam:hover {
+  background-color: #32353c;
 }
