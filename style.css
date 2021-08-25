@@ -161,3 +161,12 @@ button:hover {
 .steam:hover {
   background-color: #32353c;
 }
+
+.cv {
+  background: #3894ff;
+  color: white;
+}
+
+.cv:hover {
+  background-color: #54b0ff;
+}
